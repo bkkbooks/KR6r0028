@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6r0028/X/v1
+canonical_location: https://kanripo.org/bkk/KR6r0028/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋迦如來成道記註
+  identifiers:
+    krp: KR6r0028
+    cbeta: X75n1509
+    cbeta_old_id: X75n1509
+    authorityid: CA0003121
+    json_key: X1509
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X75/X75n1509.xml
+    old_id: X75n1509
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0028_000-X.yaml, hash: 'sha256:e2ef3df8d105b6e535b87ff13f8a22e959199981f648c1dd0ab4878714004850'}
+  - {seq: 1, filename: KR6r0028_001-X.yaml, hash: 'sha256:ccb16d6eddd0c1a1aab4051921fe01e7ae6d7b7867497d06394d49d7a7f6eb7c'}
+  - {seq: 2, filename: KR6r0028_002-X.yaml, hash: 'sha256:6f492ee350e5696ab1e9462577633209769749ee26587ed55748391e8ab00ad4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0028_000-X.markers.yaml, hash: 'sha256:541f227e75e727dbdb3c598ba95cdfaef84a19fa86aa95e2a1a3ab85e6758144'}
+  - {seq: 1, role: markers, filename: assets/KR6r0028_001-X.markers.yaml, hash: 'sha256:63d2475587a01fa0d66fb6c02741759702cd9648ef438a7d9a50603a08eff465'}
+  - {seq: 2, role: markers, filename: assets/KR6r0028_002-X.markers.yaml, hash: 'sha256:0106c454a60f72c4e6791e8d3a9d2d32414af801c7c3b7a2cf79ea6fe5ca2444'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0028_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 10646
+  label: 釋迦如來成道記註
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0028_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 9968
+  label: 釋迦如來成道記註卷之下
+  type: juan
+  level: 1
+hash: sha256:9f162c93939523159238e837f25f09c90b335cb26cb9d416149a409afaec169b

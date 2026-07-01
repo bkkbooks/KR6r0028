@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0028/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋迦如來成道記註
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X75/X75n1509.xml
+    old_id: X75n1509
+hash: sha256:e2ef3df8d105b6e535b87ff13f8a22e959199981f648c1dd0ab4878714004850
